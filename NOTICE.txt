@@ -1,0 +1,16 @@
+AMAR BATCH - PUBLIC SHOWCASE REPOSITORY
+========================================
+
+📌 This repository contains DOCUMENTATION, SCREENSHOTS, and DIAGRAMS only.
+
+❌ The actual application source code is NOT public.
+❌ This is NOT an open source project.
+
+✅ Recruiters: Use this to evaluate my skills as an Android Developer.
+✅ Developers: Study the architecture and design patterns.
+✅ Everyone: See what a 3rd year CSE student built alone.
+
+🔗 Live Product: https://appriyo.com/app/amarbatch
+📧 Contact: mahmud.nubtk@gmail.com
+
+For the full license, see LICENSE.txt
