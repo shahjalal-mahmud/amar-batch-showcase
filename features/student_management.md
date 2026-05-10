@@ -81,7 +81,8 @@ This means the teacher can always look back at a past student's complete record,
 
 ## Related Features
 
-- [Attendance Tracking](./attendance_tracking.md) — Students are the subjects of every attendance record
-- [Fee Management](./fee_management.md) — Student start month determines the first expected fee
-- [Exam Tracking](./exam_tracking.md) — Results are auto-generated for every active student when an exam is created
-- [SMS System](./sms_system.md) — Parent phone number is the delivery target for all notifications
+- [Attendance Tracking](./attendance_tracking.md) — Full session and record history is backed up
+- [Fee Management](./fee_management.md) — Every payment record is backed up
+- [Exam Tracking](./exam_tracking.md) — All exam and result data is backed up
+- [SMS System](./sms_system.md) — Absence alerts and monthly summaries are sent through the SMS queue
+- [Backup Restore](./backup_restore.md) — Covers automatic backup, what gets backed up, the restore flow on a new device

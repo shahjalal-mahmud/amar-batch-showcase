@@ -69,5 +69,8 @@ There is no GPA system, no grade letter assignment, no ranking table, and no cro
 
 ## Related Features
 
-- [Student Management](./student_management.md) — Only active students get result placeholders when an exam is created
-- [SMS System](./sms_system.md) — Exam results can be sent to parents via SMS after entry
+- [Student Management](./student_management.md) — All student data is included in the backup
+- [Attendance Tracking](./attendance_tracking.md) — Full session and record history is backed up
+- [Fee Management](./fee_management.md) — Every payment record is backed up
+- [SMS System](./sms_system.md) — Absence alerts and monthly summaries are sent through the SMS queue
+- [Backup Restore](./backup_restore.md) — Covers automatic backup, what gets backed up, the restore flow on a new device

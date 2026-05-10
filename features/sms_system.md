@@ -88,7 +88,8 @@ The SMS system uses Android's built-in SmsManager — it sends messages as stand
 
 ## Related Features
 
-- [Student Management](./student_management.md) — Parent phone number is required for any SMS to be sent
-- [Attendance Tracking](./attendance_tracking.md) — Absent alerts and monthly summaries originate here
-- [Fee Management](./fee_management.md) — Fee reminders and payment confirmations originate here
-- [Exam Tracking](./exam_tracking.md) — Exam result notifications originate here
+- [Student Management](./student_management.md) — All student data is included in the backup
+- [Attendance Tracking](./attendance_tracking.md) — Full session and record history is backed up
+- [Fee Management](./fee_management.md) — Every payment record is backed up
+- [Exam Tracking](./exam_tracking.md) — All exam and result data is backed up
+- [Backup Restore](./backup_restore.md) — Covers automatic backup, what gets backed up, the restore flow on a new device

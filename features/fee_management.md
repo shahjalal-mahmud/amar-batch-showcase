@@ -66,5 +66,8 @@ There are no partial payment fields, no discount or waiver tracking, no late fee
 
 ## Related Features
 
-- [Student Management](./student_management.md) — Student start month determines the first expected fee month
-- [SMS System](./sms_system.md) — Fee reminders and payment confirmations are sent through the SMS queue
+- [Student Management](./student_management.md) — All student data is included in the backup
+- [Attendance Tracking](./attendance_tracking.md) — Full session and record history is backed up
+- [Exam Tracking](./exam_tracking.md) — All exam and result data is backed up
+- [SMS System](./sms_system.md) — Absence alerts and monthly summaries are sent through the SMS queue
+- [Backup Restore](./backup_restore.md) — Covers automatic backup, what gets backed up, the restore flow on a new device

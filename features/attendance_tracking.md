@@ -72,5 +72,8 @@ Attendance sessions and records are never hard-deleted. This is intentional. Att
 
 ## Related Features
 
-- [Student Management](./student_management.md) — Only active students appear on attendance sheets
+- [Student Management](./student_management.md) — All student data is included in the backup
+- [Fee Management](./fee_management.md) — Every payment record is backed up
+- [Exam Tracking](./exam_tracking.md) — All exam and result data is backed up
 - [SMS System](./sms_system.md) — Absence alerts and monthly summaries are sent through the SMS queue
+- [Backup Restore](./backup_restore.md) — Covers automatic backup, what gets backed up, the restore flow on a new device

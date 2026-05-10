@@ -66,3 +66,4 @@ The backup is stored in the teacher's own Google Drive account. Anthropic does n
 - [Attendance Tracking](./attendance_tracking.md) — Full session and record history is backed up
 - [Fee Management](./fee_management.md) — Every payment record is backed up
 - [Exam Tracking](./exam_tracking.md) — All exam and result data is backed up
+- [SMS System](./sms_system.md) — Absence alerts and monthly summaries are sent through the SMS queue
