@@ -1,158 +1,162 @@
-# AMAR BATCH - PUBLIC SHOWCASE REPOSITORY LICENSE
+AMAR BATCH - PUBLIC SHOWCASE REPOSITORY LICENSE
 
-**Copyright (c) 2024-2026 MD SHAHAJALAL MAHMUD (Appriyo Technologies)**
-**All Rights Reserved.**
+Copyright (c) 2024-2026 MD SHAHAJALAL MAHMUD (Appriyo Technologies)
+All Rights Reserved.
 
 ================================================================================
 IMPORTANT: READ CAREFULLY
-================================================================================
 
-This repository contains **documentation, screenshots, videos, and architectural
-diagrams** for the commercial software product "Amar Batch".
+This repository contains documentation, screenshots, videos, and architectural
+diagrams for the commercial software product "Amar Batch".
 
-**THE ACTUAL APP SOURCE CODE IS NOT PUBLIC.**
-**THIS REPOSITORY DOES NOT CONTAIN ANY RUNNABLE SOFTWARE.**
+THE ACTUAL APP SOURCE CODE IS NOT PUBLIC.
+THIS REPOSITORY DOES NOT CONTAIN ANY RUNNABLE SOFTWARE.
 
 This license applies ONLY to the contents of THIS public showcase repository.
 
 ================================================================================
-1. WHAT THIS REPOSITORY CONTAINS
+
+WHAT THIS REPOSITORY CONTAINS
 ================================================================================
 
 This repository includes:
 
-| Type                    | Description                                    |
-|-------------------------|------------------------------------------------|
-| README.md               | Project overview and links                    |
-| Documentation (docs/)   | Architecture, database schema, user guides    |
-| Screenshots (screenshots/) | Images of the working application          |
-| Videos (videos/)        | Demo videos of application features           |
-| Diagrams (architecture_diagrams/) | Visual representations of system design |
-| User Guide (user_guide/) | Documentation for end users                  |
+Type: README.md
+Description: Project overview and links
 
-**This repository DOES NOT contain:**
-- Source code of the Amar Batch application
-- Compiled APK files
-- License keys or activation codes
-- Any runnable software
+Type: Documentation (docs/)
+Description: Architecture, database schema, user guides
 
+Type: Screenshots (screenshots/)
+Description: Images of the working application
+
+Type: Videos (videos/)
+Description: Demo videos of application features
+
+Type: Diagrams (architecture_diagrams/)
+Description: Visual representations of system design
+
+Type: User Guide (user_guide/)
+Description: Documentation for end users
+
+This repository DOES NOT contain:
+
+Source code of the Amar Batch application
+Compiled APK files
+License keys or activation codes
+Any runnable software
 ================================================================================
 2. PERMITTED USES
-================================================================================
 
 You MAY:
 
-2.1 **View and Read** — You may view, read, and study all documentation,
-     screenshots, and diagrams for:
-     - Evaluating the developer's skills
-     - Understanding the product's architecture
-     - Educational purposes
-     - Recruitment and hiring assessment
+2.1 View and Read — You may view, read, and study all documentation,
+screenshots, and diagrams for:
+- Evaluating the developer's skills
+- Understanding the product's architecture
+- Educational purposes
+- Recruitment and hiring assessment
 
-2.2 **Share Links** — You may share links to this repository on:
-     - Social media (LinkedIn, Twitter, Facebook)
-     - Professional portfolios
-     - Job applications
-     - Recruitment discussions
+2.2 Share Links — You may share links to this repository on:
+- Social media (LinkedIn, Twitter, Facebook)
+- Professional portfolios
+- Job applications
+- Recruitment discussions
 
-2.3 **Reference in Discussions** — You may reference the architecture,
-     design patterns, and technical decisions shown here in:
-     - Technical interviews
-     - Software design discussions
-     - Academic projects (with attribution)
+2.3 Reference in Discussions — You may reference the architecture,
+design patterns, and technical decisions shown here in:
+- Technical interviews
+- Software design discussions
+- Academic projects (with attribution)
 
-2.4 **Download for Personal Review** — You may clone or download this
-     repository for offline viewing of documentation and assets.
+2.4 Download for Personal Review — You may clone or download this
+repository for offline viewing of documentation and assets.
 
 ================================================================================
 3. PROHIBITED USES
-================================================================================
 
 You MAY NOT:
 
-3.1 **Use Commercially** — You may not use any content from this repository
-     for commercial purposes, including but not limited to:
-     - Creating competing products
-     - Selling documentation or assets
-     - Including in paid training materials
+3.1 Use Commercially — You may not use any content from this repository
+for commercial purposes, including but not limited to:
+- Creating competing products
+- Selling documentation or assets
+- Including in paid training materials
 
-3.2 **Modify and Redistribute** — You may not modify, adapt, or create
-     derivative works based on the documentation or assets and redistribute
-     them as your own.
+3.2 Modify and Redistribute — You may not modify, adapt, or create
+derivative works based on the documentation or assets and redistribute
+them as your own.
 
-3.3 **Claim Ownership** — You may not claim ownership, authorship, or credit
-     for any content in this repository.
+3.3 Claim Ownership — You may not claim ownership, authorship, or credit
+for any content in this repository.
 
-3.4 **Reuse Screenshots/Diagrams in Commercial Products** — You may not use
-     screenshots, videos, or diagrams from this repository in:
-     - Commercial websites
-     - Marketing materials for other products
-     - Competing applications
+3.4 Reuse Screenshots/Diagrams in Commercial Products — You may not use
+screenshots, videos, or diagrams from this repository in:
+- Commercial websites
+- Marketing materials for other products
+- Competing applications
 
-3.5 **Circumvent Monetization** — You may not:
-     - Attempt to extract or rebuild the application from this documentation
-     - Use this documentation to create a clone of Amar Batch
-     - Distribute instructions for bypassing license validation
+3.5 Circumvent Monetization — You may not:
+- Attempt to extract or rebuild the application from this documentation
+- Use this documentation to create a clone of Amar Batch
+- Distribute instructions for bypassing license validation
 
-3.6 **Remove Copyright Notices** — You may not remove, alter, or obscure any
-     copyright, trademark, or proprietary notices within the documentation.
+3.6 Remove Copyright Notices — You may not remove, alter, or obscure any
+copyright, trademark, or proprietary notices within the documentation.
 
 ================================================================================
 4. ATTRIBUTION REQUIREMENTS
-================================================================================
 
 If you reference content from this repository in any public work (blog posts,
 articles, academic papers, presentations), you must provide clear attribution:
 
-**Required Attribution Format:**
+Required Attribution Format:
 
 Source: "Amar Batch" by MD SHAHAJALAL MAHMUD
 Repository: https://github.com/shahjalal-mahmud/amar-batch-showcase
 
-
 For screenshots or diagrams specifically:
-[Screenshot/Diagram] from Amar Batch (https://github.com/shahjalal-mahmud/amar-batch-showcase)
-Used with permission for [your purpose]
 
+[Screenshot/Diagram] from Amar Batch
+(https://github.com/shahjalal-mahmud/amar-batch-showcase
+)
+Used with permission for [your purpose]
 
 ================================================================================
 5. INTELLECTUAL PROPERTY
-================================================================================
 
-5.1 **Application IP**
-     The Amar Batch application (source code, compiled binaries, APK files) is
-     a separate commercial product protected by:
-     - A separate Proprietary Software License
-     - Copyright laws of Bangladesh and international treaties
-     - Trade secret laws
+5.1 Application IP
+The Amar Batch application (source code, compiled binaries, APK files) is
+a separate commercial product protected by:
+- A separate Proprietary Software License
+- Copyright laws of Bangladesh and international treaties
+- Trade secret laws
 
-5.2 **Showcase Repository IP**
-     The documentation, screenshots, videos, and diagrams in this repository
-     are protected by:
-     - Copyright (all original content)
-     - Database rights (for organized collections)
+5.2 Showcase Repository IP
+The documentation, screenshots, videos, and diagrams in this repository
+are protected by:
+- Copyright (all original content)
+- Database rights (for organized collections)
 
-5.3 **Trademarks**
-     "Amar Batch", "Appriyo", "Appriyo Technologies", and related logos are
-     trademarks of MD SHAHAJALAL MAHMUD / Appriyo Technologies. You may not use
-     these marks without written permission.
+5.3 Trademarks
+"Amar Batch", "Appriyo", "Appriyo Technologies", and related logos are
+trademarks of MD SHAHAJALAL MAHMUD / Appriyo Technologies. You may not use
+these marks without written permission.
 
 ================================================================================
 6. DISCLAIMER OF WARRANTIES
-================================================================================
 
 THE CONTENT IN THIS REPOSITORY IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
 EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
 OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 
 THE AUTHOR DOES NOT WARRANT THAT:
-- The documentation is error-free or complete
-- Screenshots accurately represent the latest version of the application
-- Any specific features described will remain unchanged
 
+The documentation is error-free or complete
+Screenshots accurately represent the latest version of the application
+Any specific features described will remain unchanged
 ================================================================================
 7. LIMITATION OF LIABILITY
-================================================================================
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE AUTHOR
 BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
@@ -160,119 +164,126 @@ PUNITIVE DAMAGES ARISING FROM THE USE OF OR INABILITY TO USE THE CONTENT IN
 THIS REPOSITORY.
 
 THIS INCLUDES, BUT IS NOT LIMITED TO:
-- Damages for loss of business opportunities
-- Loss of reputation or goodwill
-- Costs of substitute documentation or services
 
+Damages for loss of business opportunities
+Loss of reputation or goodwill
+Costs of substitute documentation or services
 ================================================================================
 8. RELATIONSHIP TO THE COMMERCIAL PRODUCT
-================================================================================
 
-8.1 **Not an Open Source License**
-     This is NOT an open source license. The content in this repository is
-     provided for **showcase and evaluation purposes only**.
+8.1 Not an Open Source License
+This is NOT an open source license. The content in this repository is
+provided for showcase and evaluation purposes only.
 
-8.2 **No Right to the Application**
-     Nothing in this license grants you any right to:
-     - Use the Amar Batch application
-     - Receive copies of the application
-     - Access license keys or activation codes
+8.2 No Right to the Application
+Nothing in this license grants you any right to:
+- Use the Amar Batch application
+- Receive copies of the application
+- Access license keys or activation codes
 
-8.3 **No Implied License**
-     No implied license is granted to use any patent, trademark, or other
-     intellectual property of the author beyond what is explicitly stated.
+8.3 No Implied License
+No implied license is granted to use any patent, trademark, or other
+intellectual property of the author beyond what is explicitly stated.
 
 ================================================================================
 9. FOR RECRUITERS AND HIRING MANAGERS
-================================================================================
 
-**Good News:** You are ENCOURAGED to use this repository to evaluate the
+Good News: You are ENCOURAGED to use this repository to evaluate the
 developer's skills!
 
 This repository is specifically designed to demonstrate:
 
-| Skill Area               | Evidence in Repository                        |
-|--------------------------|-----------------------------------------------|
-| Android Development      | Tech stack docs, architecture diagrams        |
-| Database Design          | Schema documentation, ER diagrams             |
-| Clean Architecture       | MVVM + Repository pattern docs                |
-| System Design            | Data flow diagrams, component architecture    |
-| UI/UX Thinking           | User flows, screen structure docs             |
-| Product Management       | Roadmap, feature prioritization               |
-| Business Acumen          | Monetization docs, target market analysis     |
+Skill Area: Android Development
+Evidence in Repository: Tech stack docs, architecture diagrams
 
-✅ You MAY:
-- Share this repository with your technical team for review
-- Use the architecture diagrams in interview discussions
-- Ask candidates to explain or critique the design
+Skill Area: Database Design
+Evidence in Repository: Schema documentation, ER diagrams
 
-❌ You MAY NOT:
-- Use screenshots in your company's marketing materials
-- Reuse documentation for internal training without permission
-- Claim this work as your own or your company's
+Skill Area: Clean Architecture
+Evidence in Repository: MVVM + Repository pattern docs
 
-**For hiring inquiries:** Contact mahmud.nubtk@gmail.com
+Skill Area: System Design
+Evidence in Repository: Data flow diagrams, component architecture
+
+Skill Area: UI/UX Thinking
+Evidence in Repository: User flows, screen structure docs
+
+Skill Area: Product Management
+Evidence in Repository: Roadmap, feature prioritization
+
+Skill Area: Business Acumen
+Evidence in Repository: Monetization docs, target market analysis
+
+You MAY:
+
+Share this repository with your technical team for review
+Use the architecture diagrams in interview discussions
+Ask candidates to explain or critique the design
+
+You MAY NOT:
+
+Use screenshots in your company's marketing materials
+Reuse documentation for internal training without permission
+Claim this work as your own or your company's
+
+For hiring inquiries:
+Contact: mahmud.nubtk@gmail.com
 
 ================================================================================
 10. TERMINATION
-================================================================================
 
 10.1 Automatic Termination
-     Any violation of Sections 2, 3, or 4 of this license automatically
-     terminates your rights under this license.
+Any violation of Sections 2, 3, or 4 of this license automatically
+terminates your rights under this license.
 
 10.2 Effect of Termination
-     Upon termination:
-     - You must immediately cease all use of the content
-     - You must delete all copies of the content in your possession
-     - You may not re-download or re-access the content
+Upon termination:
+- You must immediately cease all use of the content
+- You must delete all copies of the content in your possession
+- You may not re-download or re-access the content
 
 10.3 Survival
-     Sections 5, 6, 7, 11, and 12 survive any termination of this license.
+Sections 5, 6, 7, 11, and 12 survive any termination of this license.
 
 ================================================================================
 11. GOVERNING LAW AND JURISDICTION
-================================================================================
 
 11.1 Governing Law
-     This license shall be governed by the laws of Bangladesh, without regard
-     to conflict of law principles.
+This license shall be governed by the laws of Bangladesh, without regard
+to conflict of law principles.
 
 11.2 Jurisdiction
-     Any disputes arising under this license shall be subject to the exclusive
-     jurisdiction of the courts in Dhaka, Bangladesh.
+Any disputes arising under this license shall be subject to the exclusive
+jurisdiction of the courts in Dhaka, Bangladesh.
 
 ================================================================================
 12. GENERAL PROVISIONS
-================================================================================
 
-12.1 **Severability**
-     If any provision of this license is found to be invalid or unenforceable,
-     the remaining provisions shall continue in full force and effect.
+12.1 Severability
+If any provision of this license is found to be invalid or unenforceable,
+the remaining provisions shall continue in full force and effect.
 
-12.2 **No Waiver**
-     Failure to enforce any provision of this license does not constitute a
-     waiver of that provision or any other provision.
+12.2 No Waiver
+Failure to enforce any provision of this license does not constitute a
+waiver of that provision or any other provision.
 
-12.3 **Entire Agreement**
-     This license constitutes the entire agreement between you and the author
-     regarding the content of this repository.
+12.3 Entire Agreement
+This license constitutes the entire agreement between you and the author
+regarding the content of this repository.
 
-12.4 **Contact for Permissions**
-     For permissions beyond the scope of this license, contact:
-     **Email:** mahmud.nubtk@gmail.com
+12.4 Contact for Permissions
+For permissions beyond the scope of this license, contact:
+Email: mahmud.nubtk@gmail.com
 
 ================================================================================
 13. VERSION HISTORY
-================================================================================
 
-| Version | Date       | Changes                                    |
-|---------|------------|--------------------------------------------|
-| 1.0     | 2026-02-15 | Initial public showcase license           |
+Version: 1.0
+Date: 2026-02-15
+Changes: Initial public showcase license
 
 ================================================================================
 ACKNOWLEDGMENT
-================================================================================
 
 BY ACCESSING, VIEWING, OR DOWNLOADING ANY CONTENT FROM THIS REPOSITORY,
 YOU ACKNOWLEDGE THAT YOU HAVE READ THIS LICENSE, UNDERSTAND IT, AND AGREE
@@ -282,7 +293,7 @@ IF YOU DO NOT AGREE TO THESE TERMS, DO NOT ACCESS OR USE THIS REPOSITORY.
 
 ================================================================================
 
-**© 2024-2026 MD SHAHAJALAL MAHMUD (Appriyo Technologies)**
-**Built with ❤️ for Bangladeshi Teachers | Showcased for Recruiters**
+© 2024-2026 MD SHAHAJALAL MAHMUD (Appriyo Technologies)
+Built with ❤️ for Bangladeshi Teachers | Showcased for Recruiters
 
 ================================================================================
