@@ -78,6 +78,103 @@
 
 ---
 
+## File Structure For this Repo
+
+```
+amar-batch-showcase/
+│
+├── README.md                                    # Main entry point
+│
+├── SHOWCASE.md                                  # Quick overview
+│
+├── docs/
+│   ├── OVERVIEW.md                              # Product concept (from your docs)
+│   ├── PROBLEM_STATEMENT.md                     # The problem you solved
+│   ├── SOLUTION.md                              # How Amar Batch solves it
+│   │
+│   ├── architecture/
+│   │   ├── ARCHITECTURE_OVERVIEW.md             # Clean Architecture + MVVM
+│   │   ├── DATA_FLOW_DIAGRAM.md                 # Text-based diagram
+│   │   ├── OFFLINE_FIRST_STRATEGY.md            # Your offline-first approach
+│   │   └── TECH_STACK.md                        # From your TECH_STACK.md
+│   │
+│   ├── database/
+│   │   ├── SCHEMA_OVERVIEW.md                   # 17 tables explained
+│   │   ├── ENTITY_RELATIONSHIPS.md              # Visual/text relationships
+│   │   ├── TABLE_STRUCTURES.md                  # Column definitions (no SQL)
+│   │   └── DESIGN_DECISIONS.md                  # Why you designed it that way
+│   │
+│   ├── features/
+│   │   ├── student_management.md
+│   │   ├── attendance_tracking.md
+│   │   ├── fee_management.md
+│   │   ├── exam_tracking.md
+│   │   ├── sms_system.md
+│   │   └── backup_restore.md
+│   │
+│   ├── ui_ux/
+│   │   ├── USER_FLOW.md                         # Step-by-step user journey
+│   │   ├── SCREEN_STRUCTURE.md                  # Navigation hierarchy
+│   │   └── DESIGN_PHILOSOPHY.md                 # Simple, offline-first UX
+│   │
+│   └── technical/
+│       ├── OFFLINE_SYNC_STRATEGY.md
+│       ├── BACKGROUND_WORKERS.md                # WorkManager implementation
+│       ├── LICENSING_SYSTEM.md                  # How licensing works
+│       └── SMS_QUEUE_SYSTEM.md                  # Priority-based queue
+│
+├── screenshots/
+│   ├── dashboard.png
+│   ├── student_list.png
+│   ├── add_student.png
+│   ├── attendance_marking.png
+│   ├── fee_collection.png
+│   ├── exam_results.png
+│   ├── sms_settings.png
+│   ├── backup_screen.png
+│   └── calendar_view.png
+│
+├── videos/
+│   ├── quick_demo.mp4                           # 1-minute overview
+│   ├── attendance_demo.mp4                      # Marking attendance
+│   ├── fee_demo.mp4                             # Collecting fees
+│   └── sms_demo.mp4                             # Sending notifications
+│
+├── assets/
+│   ├── app_logo.png
+│   ├── app_icon.png
+│   ├── feature_graphic.png
+│   └── promo_banner.png
+│
+├── architecture_diagrams/
+│   ├── app_architecture.png                     # MVVM + Clean Architecture
+│   ├── database_schema.png                      # Visual DB design
+│   ├── user_flow.png                            # User journey map
+│   └── sms_workflow.png                         # SMS queue system
+│
+├── user_guide/
+│   ├── getting_started.md
+│   ├── student_management_guide.md
+│   ├── attendance_guide.md
+│   ├── fee_management_guide.md
+│   ├── exam_guide.md
+│   ├── sms_guide.md
+│   └── backup_guide.md
+│
+├── business/
+│   ├── MONETIZATION_STRATEGY.md                 # Your pricing model
+│   ├── TARGET_MARKET.md                         # Bangladeshi teachers
+│   ├── COMPETITOR_ANALYSIS.md
+│   └── METRICS_AND_GROWTH.md
+│
+├── CHANGELOG.md                                 # Version history
+├── ROADMAP.md                                   # Future plans (from your docs)
+└── LICENSE.md                                   # Proprietary - All rights reserved
+
+```
+
+---
+
 ## 📚 Documentation
 
 - [Product Overview](./docs/OVERVIEW.md)
