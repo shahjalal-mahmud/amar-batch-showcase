@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 General Question or Discussion
+    url: https://github.com/shahjalal-mahmud/Amar_Batch/discussions
+    about: Ask questions and discuss ideas in GitHub Discussions.
+  - name: 📧 Contact Developer Directly
+    url: mailto:mahmud.nubtk@gmail.com
+    about: For licensing, payment, or private matters, email the developer.
+  - name: 🧪 Join Beta Testing
+    url: mailto:mahmud.nubtk@gmail.com?subject=Beta Testing Interest
+    about: Interested in testing Amar Batch? Email us to join the beta program.
