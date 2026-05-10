@@ -100,7 +100,7 @@ This is a **proprietary commercial product**. The source code is not public. Thi
 
 **Developer:** MD SHAHAJALAL MAHMUD
 **Email:** mahmud.nubtk@gmail.com  
-**Portfolio:** https://shahajalalmahmud.netlify.app/
+**Portfolio:** [Portfolio](https://shahajalalmahmud.netlify.app/)
 
 ---
 
