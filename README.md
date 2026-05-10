@@ -89,7 +89,7 @@ amar-batch-showcase/
 │
 ├── docs/
 │   ├── OVERVIEW.md                              # Product concept (from your docs)
-│   ├── PROBLEM_STATEMENT.md                     # The problem you solved
+│   ├── PROBLEM_STATEMENT.md                     # The problem I solved
 │   ├── SOLUTION.md                              # How Amar Batch solves it
 │   │
 │   ├── architecture/
@@ -102,7 +102,7 @@ amar-batch-showcase/
 │   │   ├── SCHEMA_OVERVIEW.md                   # 17 tables explained
 │   │   ├── ENTITY_RELATIONSHIPS.md              # Visual/text relationships
 │   │   ├── TABLE_STRUCTURES.md                  # Column definitions (no SQL)
-│   │   └── DESIGN_DECISIONS.md                  # Why you designed it that way
+│   │   └── DESIGN_DECISIONS.md                  # Why I designed it that way
 │   │
 │   ├── features/
 │   │   ├── student_management.md
@@ -162,13 +162,15 @@ amar-batch-showcase/
 │   └── backup_guide.md
 │
 ├── business/
-│   ├── MONETIZATION_STRATEGY.md                 # Your pricing model
+│   ├── MONETIZATION_STRATEGY.md                 # Pricing model
 │   ├── TARGET_MARKET.md                         # Bangladeshi teachers
 │   ├── COMPETITOR_ANALYSIS.md
 │   └── METRICS_AND_GROWTH.md
 │
 ├── CHANGELOG.md                                 # Version history
+├── NOTICE.txt                                  
 ├── ROADMAP.md                                   # Future plans (from your docs)
+├── SECURITY.md
 └── LICENSE.md                                   # Proprietary - All rights reserved
 
 ```
