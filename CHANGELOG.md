@@ -361,7 +361,7 @@ We're aiming for **July 31, 2026** as the target date for public release on Goog
 
 **For Everyone:**
 
-- GitHub Issues: [github.com/shahjalal-mahmud/amar-batch-showcase/issues](https://github.com/shahjalal-mahmud/amar-batch-showcase/issues)
+- GitHub Issues: [github.com/shahjalal-mahmud/amar-batch-showcase/issues](https://github.com/Appriyo/amar-batch-showcase/issues)
 - Email: mahmud.nubtk@gmail.com
 - Phone: 01889793146
 

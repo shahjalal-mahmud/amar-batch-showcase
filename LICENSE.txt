@@ -113,12 +113,12 @@ articles, academic papers, presentations), you must provide clear attribution:
 Required Attribution Format:
 
 Source: "Amar Batch" by MD SHAHAJALAL MAHMUD
-Repository: https://github.com/shahjalal-mahmud/amar-batch-showcase
+Repository: https://github.com/Appriyo/amar-batch-Showcase
 
 For screenshots or diagrams specifically:
 
 [Screenshot/Diagram] from Amar Batch
-https://github.com/shahjalal-mahmud/amar-batch-showcase
+https://github.com/Appriyo/amar-batch-showcase
 Used with permission for [your purpose]
 
 ================================================================================

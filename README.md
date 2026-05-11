@@ -398,7 +398,7 @@ All rights reserved.
 | Product Page | https://appriyo.com/app/amarbatch                |
 | Portfolio    | https://shahajalalmahmud.netlify.app/            |
 | LinkedIn     | https://www.linkedin.com/in/md-shahajalal-mahmud |
-| GitHub       | https://github.com/shahjalal-mahmud              |
+| GitHub       | https://github.com/Appriyo/amar-batch-showcase/  |
 
 ---
 

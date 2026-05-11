@@ -4,8 +4,8 @@
 
 **Email:** mahmud.nubtk@gmail.com  
 **Phone:** 01889793146 (available Saturday-Thursday, 9 AM - 9 PM Bangladesh Time)  
-**GitHub Issues:** [github.com/shahjalal-mahmud/Amar_Batch/issues](https://github.com/shahjalal-mahmud/Amar_Batch/issues)  
-**GitHub Discussions:** [github.com/shahjalal-mahmud/Amar_Batch/discussions](https://github.com/shahjalal-mahmud/Amar_Batch/discussions)
+**GitHub Issues:** [github.com/shahjalal-mahmud/Amar_Batch/issues](https://github.com/Appriyo/amar-batch-showcase/issues)  
+**GitHub Discussions:** [github.com/shahjalal-mahmud/Amar_Batch/discussions](https://github.com/Appriyo/amar-batch-showcase/discussions)
 
 When contacting us, please:
 - Use a clear subject line

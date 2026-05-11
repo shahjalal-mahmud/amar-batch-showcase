@@ -356,7 +356,7 @@ If your question isn't answered here:
 
 - 📧 Email: mahmud.nubtk@gmail.com
 - 💬 WhatsApp: 01889793146
-- 🐛 GitHub Issues: [github.com/shahjalal-mahmud/Amar_Batch/issues](https://github.com/shahjalal-mahmud/Amar_Batch/issues)
+- 🐛 GitHub Issues: [github.com/shahjalal-mahmud/Amar_Batch/issues](https://github.com/Appriyo/amar-batch-showcase/issues)
 
 **Before contacting support, please check:**
 
