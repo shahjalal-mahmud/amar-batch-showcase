@@ -2,107 +2,282 @@
 
 <div align="center">
 
-**A silent assistant for teachers — simple, reliable, and respectful of their time.**
+<img src="./assets/app_logo.png" width="120" alt="Amar Batch Logo" />
+
+# Amar Batch
+
+### A silent assistant for teachers — simple, reliable, and respectful of their time.
 
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)]()
 [![Status](https://img.shields.io/badge/Status-Beta-blue.svg)]()
 [![Monetized](https://img.shields.io/badge/Monetized-Active-success.svg)]()
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)]()
+[![Architecture](https://img.shields.io/badge/Architecture-Clean%20Architecture-orange.svg)]()
 
-**🎯 Live Product | 💰 Generating Revenue | 👨‍💻 Built by a 3rd Year CSE Student**
+### 🎯 Real Product • 💰 Revenue Generating • 👨‍💻 Built Solo
 
 </div>
 
 ---
 
-## 📱 What is Amar Batch?
+# ⚠ IMPORTANT NOTICE
 
-**Amar Batch** is a production Android app for Bangladeshi batch teachers. It helps manage attendance, tuition fees, exams, and parent communication through SMS — **all without requiring internet**.
+## Amar Batch is NOT open source.
 
-**I built this alone** as a 3rd year CSE student, and teachers are **paying for it**.
+This repository exists for:
 
----
+- product showcase,
+- architecture demonstration,
+- engineering documentation,
+- UX philosophy,
+- and technical case-study purposes only.
 
-## 🎯 Quick Links
+The **production source code is private and proprietary**.
 
-| What             | Where                                                          |
-| ---------------- | -------------------------------------------------------------- |
-| **Live Product** | [appriyo.com/app/amarbatch](https://appriyo.com/app/amarbatch) |
-| **Demo Video**   | [Watch 2-min Demo](./videos/quick_demo.mp4)                    |
-| **Screenshots**  | [View Gallery](./screenshots/)                                 |
-| **User Guide**   | [Read Documentation](./user_guide/)                            |
-
----
-
-## 💰 Monetization Status
-
-- ✅ **Live on Teacher's phones** (Manual APK distribution)
-- ✅ **Paid subscriptions active** (৳999/year)
-- ✅ **Revenue generating**
-- 🔄 **Preparing for Play Store launch**
+Unauthorized copying, redistribution, reverse engineering, or commercial reuse is strictly prohibited.
 
 ---
 
-## 🏗️ Technical Highlights
+# 📱 What is Amar Batch?
 
-| Aspect              | Implementation                 |
-| ------------------- | ------------------------------ |
-| **Architecture**    | Clean Architecture + MVVM      |
-| **UI**              | Jetpack Compose (Material 3)   |
-| **Database**        | Room with 17 normalized tables |
-| **Offline-first**   | 100% offline capable           |
-| **Background Jobs** | WorkManager with retry logic   |
-| **Backup**          | Google Drive integration       |
-| **Testing**         | Unit + Instrumentation tests   |
+**Amar Batch** is a production Android app built for Bangladeshi private teachers, home tutors, and small coaching batch owners.
 
-[📐 View Architecture Details](./docs/architecture/ARCHITECTURE_OVERVIEW.md)
+It helps teachers manage:
+
+- ✅ Attendance
+- ✅ Tuition fees
+- ✅ Exams & marks
+- ✅ Parent communication
+- ✅ Student records
+- ✅ Offline data backup
+
+—all from a simple mobile app designed specifically for non-technical teachers.
+
+The app is fully optimized for:
+
+- low internet environments,
+- fast daily workflows,
+- and simple real-world usage.
 
 ---
 
-## 📸 Screenshots
+# 🎯 Product Vision
+
+Most teachers in Bangladesh still manage their batches using:
+
+- notebooks,
+- diaries,
+- Excel sheets,
+- or memory.
+
+Amar Batch replaces that chaos with a reliable offline-first system that takes less than a minute to use daily.
+
+> “Just open, mark, and close.”
+
+That philosophy drives the entire product.
+
+---
+
+# 🚀 Product Status
+
+| Status             | Details                   |
+| ------------------ | ------------------------- |
+| Product Stage      | Active Beta               |
+| Revenue Status     | Monetized                 |
+| Distribution       | Manual APK Distribution   |
+| Platform           | Android                   |
+| Primary Market     | Bangladesh                |
+| Architecture       | Clean Architecture + MVVM |
+| Developer          | Solo Developer            |
+| Backend Dependency | Minimal                   |
+| Offline Capability | Full Offline Support      |
+
+---
+
+# 💰 Monetization
+
+Amar Batch is a real commercial product.
+
+### Current Pricing
+
+| Plan                   | Price      |
+| ---------------------- | ---------- |
+| Single Teacher License | ৳999/year  |
+| Multi Batch License    | ৳1499/year |
+
+### Current Distribution Strategy
+
+- Manual APK distribution
+- Direct teacher onboarding
+- Subscription-based licensing
+- Preparing for Google Play launch
+
+---
+
+# 🏗 Technical Highlights
+
+| Area                 | Technology                |
+| -------------------- | ------------------------- |
+| UI Framework         | Jetpack Compose           |
+| Language             | Kotlin                    |
+| Architecture         | Clean Architecture + MVVM |
+| Local Database       | Room                      |
+| Dependency Injection | Hilt                      |
+| Async Operations     | Coroutines + Flow         |
+| Background Tasks     | WorkManager               |
+| SMS System           | Native Android SMS APIs   |
+| Backup System        | Google Drive              |
+| Offline Capability   | Full Offline-first        |
+| Database Design      | 17 Normalized Tables      |
+
+---
+
+# 📸 Screenshots
 
 | Dashboard                                 | Attendance                                          | Fee Collection                            |
 | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------- |
 | ![Dashboard](./screenshots/dashboard.png) | ![Attendance](./screenshots/attendance_marking.png) | ![Fees](./screenshots/fee_collection.png) |
 
-[View all screenshots →](./screenshots/)
+### More Screens
+
+- Student Management
+- Calendar Attendance
+- SMS Settings
+- Backup & Restore
+- Exam Tracking
+- Profit Summary
+
+📂 Full gallery available in [`/screenshots`](./screenshots/)
 
 ---
 
-## 🎥 Demo Videos
+# 🎥 Demo Videos
 
-- [Quick Demo (1 min)](./videos/quick_demo.mp4)
-- [Attendance Marking](./videos/attendance_demo.mp4)
-- [Fee Collection](./videos/fee_demo.mp4)
-- [SMS System](./videos/sms_demo.mp4)
+| Demo                  | Description               |
+| --------------------- | ------------------------- |
+| `quick_demo.mp4`      | 1-minute product overview |
+| `attendance_demo.mp4` | Attendance workflow       |
+| `fee_demo.mp4`        | Fee collection process    |
+| `sms_demo.mp4`        | SMS notification system   |
+
+📂 Videos available in [`/videos`](./videos/)
 
 ---
 
-## File Structure For this Repo
+# 📦 APK Download
 
+Beta APK releases are available inside:
+
+```bash
+/releases/
 ```
+
+### Current Release
+
+```bash
+releases/
+├── amar-batch-beta-v1.apk
+├── RELEASE_NOTES.md
+└── INSTALLATION_GUIDE.md
+```
+
+### Installation Notes
+
+- Android only
+- Manual installation required
+- Unknown sources permission needed
+- Intended for testing/demo purposes
+
+---
+
+# 🔒 Why Private Source?
+
+Many people ask:
+
+> “Why is the source code not public?”
+
+The answer is simple:
+
+Amar Batch is a **commercial proprietary product**.
+
+This repository exists to showcase:
+
+- architecture,
+- engineering decisions,
+- UX philosophy,
+- system design,
+- and product thinking.
+
+The production source code is intentionally private.
+
+This allows the product to remain commercially sustainable while still showcasing the engineering and design process publicly.
+
+---
+
+# 🧠 Engineering Philosophy
+
+Amar Batch prioritizes:
+
+- simplicity over complexity,
+- speed over visual noise,
+- offline reliability over cloud dependency,
+- and maintainability over over-engineering.
+
+### Core Product Principles
+
+- Minimal cognitive load
+- Fast data entry
+- Offline-first UX
+- Teacher-friendly workflows
+- Predictable navigation
+- Stable architecture
+- Long-term maintainability
+
+---
+
+# 🏛 Repository Structure
+
+```bash
 amar-batch-showcase/
 │
-├── README.md                                    # Main entry point
+├── README.md
+├── SHOWCASE.md
+├── FAQ.md
+├── SUPPORT.md
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+├── CHANGELOG.md
+├── ROADMAP.md
+├── SECURITY.md
+├── NOTICE.txt
 │
-├── SHOWCASE.md                                  # Quick overview
+├── releases/
+│   ├── amar-batch-beta-v1.apk
+│   ├── RELEASE_NOTES.md
+│   └── INSTALLATION_GUIDE.md
+│
+├── legal/
+│   ├── PRIVACY_POLICY.md
+│   ├── TERMS_OF_SERVICE.md
+│   ├── DISCLAIMER.md
+│   └── LICENSE.md
 │
 ├── docs/
-│   ├── OVERVIEW.md                              # Product concept (from your docs)
-│   ├── PROBLEM_STATEMENT.md                     # The problem I solved
-│   ├── SOLUTION.md                              # How Amar Batch solves it
+│   ├── OVERVIEW.md
+│   ├── PROBLEM_STATEMENT.md
+│   ├── SOLUTION.md
 │   │
 │   ├── architecture/
-│   │   ├── ARCHITECTURE_OVERVIEW.md             # Clean Architecture + MVVM
-│   │   ├── DATA_FLOW_DIAGRAM.md                 # Text-based diagram
-│   │   ├── OFFLINE_FIRST_STRATEGY.md            # Your offline-first approach
-│   │   └── TECH_STACK.md                        # From your TECH_STACK.md
+│   │   ├── ARCHITECTURE_OVERVIEW.md
+│   │   ├── DATA_FLOW_DIAGRAM.md
+│   │   ├── OFFLINE_FIRST_STRATEGY.md
+│   │   └── TECH_STACK.md
 │   │
 │   ├── database/
-│   │   ├── SCHEMA_OVERVIEW.md                   # 17 tables explained
-│   │   ├── ENTITY_RELATIONSHIPS.md              # Visual/text relationships
-│   │   ├── TABLE_STRUCTURES.md                  # Column definitions (no SQL)
-│   │   └── DESIGN_DECISIONS.md                  # Why I designed it that way
+│   │   ├── SCHEMA_OVERVIEW.md
+│   │   ├── ENTITY_RELATIONSHIPS.md
+│   │   ├── TABLE_STRUCTURES.md
+│   │   └── DESIGN_DECISIONS.md
 │   │
 │   ├── features/
 │   │   ├── student_management.md
@@ -113,100 +288,150 @@ amar-batch-showcase/
 │   │   └── backup_restore.md
 │   │
 │   ├── ui_ux/
-│   │   ├── USER_FLOW.md                         # Step-by-step user journey
-│   │   ├── SCREEN_STRUCTURE.md                  # Navigation hierarchy
-│   │   └── DESIGN_PHILOSOPHY.md                 # Simple, offline-first UX
+│   │   ├── USER_FLOW.md
+│   │   ├── SCREEN_STRUCTURE.md
+│   │   └── DESIGN_PHILOSOPHY.md
 │   │
 │   └── technical/
 │       ├── OFFLINE_SYNC_STRATEGY.md
-│       ├── BACKGROUND_WORKERS.md                # WorkManager implementation
-│       ├── LICENSING_SYSTEM.md                  # How licensing works
-│       └── SMS_QUEUE_SYSTEM.md                  # Priority-based queue
+│       ├── BACKGROUND_WORKERS.md
+│       ├── LICENSING_SYSTEM.md
+│       └── SMS_QUEUE_SYSTEM.md
 │
 ├── screenshots/
-│   ├── dashboard.png
-│   ├── student_list.png
-│   ├── add_student.png
-│   ├── attendance_marking.png
-│   ├── fee_collection.png
-│   ├── exam_results.png
-│   ├── sms_settings.png
-│   ├── backup_screen.png
-│   └── calendar_view.png
-│
 ├── videos/
-│   ├── quick_demo.mp4                           # 1-minute overview
-│   ├── attendance_demo.mp4                      # Marking attendance
-│   ├── fee_demo.mp4                             # Collecting fees
-│   └── sms_demo.mp4                             # Sending notifications
-│
 ├── assets/
-│   ├── app_logo.png
-│   ├── app_icon.png
-│   ├── feature_graphic.png
-│   └── promo_banner.png
-│
 ├── architecture_diagrams/
-│   ├── app_architecture.png                     # MVVM + Clean Architecture
-│   ├── database_schema.png                      # Visual DB design
-│   ├── user_flow.png                            # User journey map
-│   └── sms_workflow.png                         # SMS queue system
-│
 ├── user_guide/
-│   ├── getting_started.md
-│   ├── student_management_guide.md
-│   ├── attendance_guide.md
-│   ├── fee_management_guide.md
-│   ├── exam_guide.md
-│   ├── sms_guide.md
-│   └── backup_guide.md
-│
-├── business/
-│   ├── MONETIZATION_STRATEGY.md                 # Pricing model
-│   ├── TARGET_MARKET.md                         # Bangladeshi teachers
-│   ├── COMPETITOR_ANALYSIS.md
-│   └── METRICS_AND_GROWTH.md
-│
-├── CHANGELOG.md                                 # Version history
-├── NOTICE.txt                                  
-├── ROADMAP.md                                   # Future plans (from your docs)
-├── SECURITY.md
-└── LICENSE.md                                   # Proprietary - All rights reserved
-
+└── business/
 ```
 
 ---
 
-## 📚 Documentation
+# 📚 Documentation
 
-- [Product Overview](./docs/OVERVIEW.md)
+## Product & Business
+
+- [Overview](./docs/OVERVIEW.md)
 - [Problem Statement](./docs/PROBLEM_STATEMENT.md)
+- [Solution](./docs/SOLUTION.md)
+- [Monetization Strategy](./business/MONETIZATION_STRATEGY.md)
+- [Competitor Analysis](./business/COMPETITOR_ANALYSIS.md)
+
+---
+
+## Architecture & Engineering
+
+- [Architecture Overview](./docs/architecture/ARCHITECTURE_OVERVIEW.md)
+- [Offline-first Strategy](./docs/architecture/OFFLINE_FIRST_STRATEGY.md)
 - [Tech Stack](./docs/architecture/TECH_STACK.md)
-- [Database Design](./docs/database/SCHEMA_OVERVIEW.md)
-- [User Guide](./user_guide/getting_started.md)
+- [Database Schema](./docs/database/SCHEMA_OVERVIEW.md)
 
 ---
 
-## 🔐 License
+## UX & Product Design
 
-This is a **proprietary commercial product**. The source code is not public. This repository contains **documentation, screenshots, and architecture details only**.
-
-**© 2024 MD SHAHAJALAL MAHMUD. All Rights Reserved.**
+- [Design Philosophy](./docs/ui_ux/DESIGN_PHILOSOPHY.md)
+- [User Flow](./docs/ui_ux/USER_FLOW.md)
+- [Screen Structure](./docs/ui_ux/SCREEN_STRUCTURE.md)
 
 ---
 
-## 📞 Contact
+## User Guides
 
-**Developer:** MD SHAHAJALAL MAHMUD
-**Email:** mahmud.nubtk@gmail.com  
-**Portfolio:** [Portfolio](https://shahajalalmahmud.netlify.app/)
+- [Getting Started](./user_guide/getting_started.md)
+- [Attendance Guide](./user_guide/attendance_guide.md)
+- [Fee Management](./user_guide/fee_management_guide.md)
+- [SMS Guide](./user_guide/sms_guide.md)
+
+---
+
+# 🔐 Intellectual Property
+
+## ⚠ Amar Batch is NOT open source.
+
+This repository is for:
+
+- documentation,
+- architecture showcase,
+- UI/UX demonstration,
+- and product presentation purposes only.
+
+### Restrictions
+
+You may NOT:
+
+- copy the application,
+- clone business logic,
+- reuse branding,
+- redistribute APKs,
+- reverse engineer proprietary systems,
+- or create commercial derivatives.
+
+All rights reserved.
+
+---
+
+# 👨‍💻 About the Developer
+
+**MD SHAHAJALAL MAHMUD**
+
+- 3rd Year CSE Student
+- Android Engineer
+- Product Builder
+- Founder of Appriyo
+
+### Focus Areas
+
+- Android Engineering
+- Offline-first Systems
+- Mobile Product Design
+- Real-world SaaS Products
+- UX Simplification
+
+---
+
+# 🌐 Links
+
+| Platform     | Link                                             |
+| ------------ | ------------------------------------------------ |
+| Product Page | https://appriyo.com/app/amarbatch                |
+| Portfolio    | https://shahajalalmahmud.netlify.app/            |
+| LinkedIn     | https://www.linkedin.com/in/md-shahajalal-mahmud |
+| GitHub       | https://github.com/shahjalal-mahmud              |
+
+---
+
+# 📞 Contact
+
+| Type         | Details                |
+| ------------ | ---------------------- |
+| Email        | mahmud.nubtk@gmail.com |
+| Product      | Amar Batch             |
+| Organization | Appriyo                |
+
+---
+
+# ⭐ Final Note
+
+Amar Batch is not a tutorial project.
+
+It is a real product solving real operational problems for real teachers.
+
+This repository demonstrates:
+
+- product thinking,
+- software architecture,
+- offline-first engineering,
+- UX simplification,
+- and commercial software development by a solo student developer.
 
 ---
 
 <div align="center">
 
-**⭐ This showcase demonstrates what a single student developer can build**
+### Built with Kotlin, Jetpack Compose, Room & real-world feedback from teachers.
 
-_Built with Kotlin, Jetpack Compose, and Room_
+**Made with ❤️ for Bangladeshi Teachers**
 
 </div>
